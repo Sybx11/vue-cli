@@ -12,7 +12,7 @@ module.exports = api => {
     vue: {
       transpileDependencies: true
     },
-    dependencies: {
+    dependencies: {hfcsjnskj
       'core-js': '^3.8.3'
     }
   })
